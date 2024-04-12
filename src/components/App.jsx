@@ -47,7 +47,7 @@ function App() {
           <Statistics
             good={feedbackState.Good}
             neutral={feedbackState.Neutral}
-            bad={feedbackState.Nad}
+            bad={feedbackState.Bad}
             total={total}
             positivePercentage={positivePercentage}
           />
